@@ -1,0 +1,26 @@
+{
+    "token": "Nzg2ODg5MTQ4MTU3MDAxNzUw.X9M9oA.nPgQaJtFQ1yU5TnuE0ZfqEeA41k",
+    "prefix": "!",
+    "logo":  "",
+    "hex_color": "#0099ff", 
+    "community_name": "DayLightRP", 
+    "role_access_id": "801410001570103317",
+    "discord_logs_channel_id": "801410198199337010",
+    
+    "database_host": "51.195.101.149",
+    "database_user": "u10579_o4cBDpwZsy",
+    "database_password": "HhsV4tj27v+3LVfrAEZ.OeOv",
+    "database_base": "3306",
+
+    "money": true,
+    "job": true,
+    "bank": true,
+    "permission_levl": true,
+    "group": true,
+    "playername": true,
+    "dateofbirth": true,
+    "sex": true,
+    "height": true,
+    "phone_number": true,
+    "rpkill": true
+}
