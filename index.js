@@ -67,7 +67,7 @@
 const Discord = require('discord.js');
 const client = new Discord.Client({ partials: ["MESSAGE", "USER", "REACTION"] });
 const { token, prefix, logo, hex_color, community_name, role_access_id, discord_logs_channel_id, database_host, database_user, database_password, database_base, money,  job, bank, permission_level, group, playername, dateofbirth, sex, height, phone_number, rpkill} = require('./config.json');
-var mysql = require('mysql')
+var mysql = require('123')
 
 var con = mysql.createConnection({
     host: database_host,
